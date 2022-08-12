@@ -7,6 +7,7 @@ learn-Yolo
 - Python >= 3.8
 
 # 3. Document
+[Mi AI guide](https://www.miai.vn/2019/08/05/yolo-series-1-su-dung-yolo-de-nhan-dang-doi-tuong-trong-anh)
 
 # 4. Installation
 - Install the requirements inside of a Python virtualenv (recommend)
