@@ -27,6 +27,13 @@ learn-Yolo
     deactivate
 ```
 
+Download yolov3.weights file - weight của pretrain model from [Link](https://pjreddie.com/media/files/yolov3.weights)
+to ./yolo folder
+
 # 5. Commands
+Run detect
+```
+python YOLO.py --config ./yolo/yolov3.cfg --weights ./yolo/yolov3.weights --classes ./yolo/yolov3.txt --image ./images/cam3.jpeg
+```
 
 # 6. Debug
