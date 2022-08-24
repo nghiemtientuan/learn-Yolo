@@ -33,7 +33,7 @@ to ./yolo folder
 # 5. Commands
 Run detect
 ```
-python YOLO.py --config ./yolo/yolov3.cfg --weights ./yolo/yolov3.weights --classes ./yolo/yolov3.txt --image ./images/cam3.jpeg
+python YOLO.py --image ./images/cam3.jpeg
 ```
 
 # 6. Debug
